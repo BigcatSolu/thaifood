@@ -420,5 +420,18 @@
     "contain-milk": "not-contain",
     "avg_calories": null,
     "cuisine": "thai"
-  }
+  },
+  {
+    "name":  "ต้มยำกุ้ง",
+    "eng_name": "Hot and Sour Prawn Soup",
+    "rice": "not-contain",
+    "meat": ["prawn"],
+    "spicy": true,
+    "seafood": true,
+    "green_level": "none",
+    "contain_nut": "not-contain",
+    "contain_milk": "contain",
+    "avg_calories": null,
+    "cuisine": "thai"
+}
 ]
